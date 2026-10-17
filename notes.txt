@@ -1,2 +1,4 @@
 Line 1: Stable text
-Line 2: Added by feature A
+Line 2: Added by feature A & Added by feature B
+
+
